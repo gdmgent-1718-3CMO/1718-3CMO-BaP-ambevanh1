@@ -11,6 +11,9 @@
         .dropdown-menu {
             position: static !important;
             width: 100%;
+            background-color: whitesmoke;
+            border: none;
+            padding: 0rem 0;
         }
         .navbar-nav {
             width: 100%;
@@ -36,4 +39,117 @@
 
  } 
 
- 
+ .logo_s {
+    width: 135px;
+ }
+
+ .dropdown-item {
+    padding: 0px 0px;
+    color: #191d32;
+ }
+
+
+
+
+.flex-column {
+    width: 220px;
+    height: 700px;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #007a8e;
+    color: #f4f3f3;
+    padding-top: 40px;
+}
+
+.footer_text {
+    padding-top: 12px;
+    text-align: center;
+}
+
+.footer_afb {
+    padding-bottom: 30px;
+}
+
+.footer_afb1 {
+    width: 120px;
+    margin-top: 0px
+}
+
+.footer_afb2 {
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.accordion {
+    width: 215px;
+    padding: 35px;
+}
+
+/* The Magic */
+.accordion:hover .accordion-item:hover .accordion-item-content,
+.accordion .accordion-item--default .accordion-item-content {
+    height: 6em;
+}
+
+.accordion-item-content,
+.accordion:hover .accordion-item-content {
+    height: 0;
+    overflow: hidden;
+    transition: height .25s;
+} 
+
+/* Aesthetic */
+body {
+  background: #FFFFFF;
+}
+
+.accordion {
+    padding: 0;
+    margin: 47px;
+    width: 20%;
+}
+
+.accordion .accordion-item {
+  border-bottom: 0px solid #666;
+  padding: 0em;
+  color: #191d32;
+}
+
+.accordion h1 {
+  margin: 0;
+}
+
+.accordion .accordion-item:nth-child {
+  background-color: rgb(245, 245, 245);
+
+
+}
+
+.accordion-item-content {
+    color: #191d32;
+} 

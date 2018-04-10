@@ -5,6 +5,31 @@
     border: none;
 }
 
+
+/* Body
+---------------------------------------------
+*/
+
+.kitty {
+  width: 100%;
+}
+
+.first-al {
+  margin: 9rem 0 1rem;
+}
+
+.balk {
+  background-color: whitesmoke;
+  margin-bottom: -9%;
+  padding-right: 235px;
+    padding-left: 35px;
+}
+
+.navbar {
+  background-color: whitesmoke !important;
+}
+
+
 /* FOOTER
 ----------------------------------------------
 sticked to the bottom with small content pages
@@ -21,9 +46,9 @@ body {
   }
 
 .bh-absolute-bottom {
-  position: absolute;
+  position: relative;
   right: 0;
-  bottom: 0;
+  bottom: -96px;
   left: 0;
 }
 

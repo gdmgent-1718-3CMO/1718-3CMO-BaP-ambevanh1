@@ -6,8 +6,15 @@
   border-top: 1px solid $color-grey-2;
   margin: 1em 0 2em;
 
-  h1, h2, h3, h4, h5, h6 {
+  h2, h3, h4, h5, h6 {
     font-family: $clientfont-family-title;
+  }
+
+  h1 {
+    font-weight: 200;
+    font-size: 7rem;
+    color: #b4b4b4;
+    
   }
 
   a {

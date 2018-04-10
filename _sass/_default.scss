@@ -15,18 +15,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-weight: $font-weight-light;
-    font-size: 4rem;
-    color: $color-grey-2;
+    font-weight: $font-weight-bold;
+    font-size: 6rem;
+    color: #191d32;
+    font-family:'Assistant';
+    margin: 3rem 40px 1rem;
 }
 h2 {
-    font-weight: $font-weight-light;
-    font-size: 2rem;
+    font-weight: $font-weight-base;
+    font-size: 25px;
     margin: 2rem 0 1rem;
+    color: #007a8e;
 }
 h3, h4, h5, h6 {
     font-size: 1rem;
     margin: 2rem 0 0;
+    color: #191d32;
 }
 a {
     text-decoration: none;
