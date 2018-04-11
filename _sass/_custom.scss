@@ -71,13 +71,88 @@
 }
 
 .home_afbeelding {
-  width: 1350px;
-  margin: 0px -150px;
+  width: 1450px;
+  margin: -66px -390px;
   position: absolute;
   left: 0px;
   top: 0px;
-  z-index: -1;
+  
 }
+
+.home_titel1 {
+  font-size: 45px;
+  margin-top: 150px;
+  margin-bottom: 40px;
+}
+
+.home_titel2 {
+  font-size: 45px;
+  margin-top: 85px;
+  margin-bottom: 40px;
+}
+
+.home_titel3 {
+  font-size: 45px;
+  margin-top: 85px;
+  margin-bottom: 40px;
+}
+
+.home_titel4 {
+  font-size: 45px;
+  margin-top: 85px;
+  margin-bottom: 40px;
+}
+
+.home_titel5 {
+  font-size: 45px;
+  margin-top: 85px;
+  margin-bottom: 40px;
+}
+
+.home_titel6 {
+  font-size: 45px;
+  margin-top: 85px;
+  margin-bottom: 40px;
+}
+
+.home_titel7 {
+  font-size: 45px;
+  margin-top: 85px;
+  margin-bottom: 40px;
+}
+
+/* Button
+---------------------------------------------
+*/
+
+.btn-outline-info {
+  color: #007a8e;
+  background-color: transparent;
+  background-image: none;
+  border-color: #007a8e;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 2px solid ;
+  padding: 0.375rem 1.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  margin-bottom: 85px;
+}
+
+
+
 
 /* Arrow
 ---------------------------------------------
@@ -94,6 +169,7 @@
   transform: rotate(45deg);
   transition: border-width 150ms ease-in-out;
   margin-top: 550px;
+  margin-right: 262px;
 }
 
 .arrow:hover {
@@ -114,8 +190,9 @@
 }
 
 #full {
-  height: 100vh;
-  background-color: #transparent
+  height: 265vh;
+  background-color: #transparent;
+  padding-top: 10px;
   
 }
 
