@@ -15,11 +15,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-weight: $font-weight-bold;
-    font-size: 6rem;
+    font-weight: 800;
+    font-size: 143px;
     color: #191d32;
-    font-family:'Assistant';
-    margin: 3rem 40px 1rem;
+    font-family: 'Assistant';
+    margin: 30px -7px;
 }
 h2 {
     font-weight: $font-weight-base;
@@ -27,6 +27,11 @@ h2 {
     margin: 2rem 0 1rem;
     color: #007a8e;
 }
+
+a h3 {
+    color: #f3f2f2;
+}
+
 h3, h4, h5, h6 {
     font-size: 1rem;
     margin: 2rem 0 0;
