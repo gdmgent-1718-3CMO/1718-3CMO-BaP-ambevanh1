@@ -49,7 +49,7 @@ a {
 }
 blockquote {
     padding-left: 24px;
-    border-left: 2px solid $mycolor-5;
+    
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
@@ -62,7 +62,7 @@ main ul {
     text-indent: -25px;
     &:before {
         content:'\2022';
-        color: $mycolor-5;
+        
         margin-right: 18px;
     }    
   }
@@ -84,7 +84,6 @@ main ol {
         padding: 3px 6px;
         margin-right: 5px;
         border-radius: 5px;
-        background-color: $mycolor-5;
         color: $color-white;
         font-family: $myfont-family-title;
         font-weight: $font-weight-bold;
