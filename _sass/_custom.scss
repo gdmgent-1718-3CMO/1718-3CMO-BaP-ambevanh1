@@ -70,6 +70,15 @@
   color: white;
 }
 
+.home_afbeelding {
+  width: 1350px;
+  margin: 0px -150px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+
 /* Arrow
 ---------------------------------------------
 */
@@ -81,7 +90,7 @@
   width: 5vw;
   border-style: solid;
   border-color: white;
-  border-width: 0px 1px 1px 0px;
+  border-width: 0px 2px 2px 0px;
   transform: rotate(45deg);
   transition: border-width 150ms ease-in-out;
   margin-top: 550px;
@@ -96,7 +105,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #0e242d;
+  background-color: #transparent;
   height: 910px;
 
   width: 1170px;
