@@ -4,7 +4,7 @@ permalink: logo/
 published: true
 title: Logo intro
 ---
-<div class="balk_title hallo">Hallo</div>
+<!-- <div class="balk_title hallo">Hallo</div> -->
 
 
 

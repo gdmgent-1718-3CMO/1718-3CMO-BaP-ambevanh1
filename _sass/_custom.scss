@@ -66,6 +66,50 @@
 }
 
 
+.vetas {
+  color: white;
+}
+
+/* Arrow
+---------------------------------------------
+*/
+
+
+.arrow {
+  box-sizing: border-box;
+  height: 5vw;
+  width: 5vw;
+  border-style: solid;
+  border-color: white;
+  border-width: 0px 1px 1px 0px;
+  transform: rotate(45deg);
+  transition: border-width 150ms ease-in-out;
+  margin-top: 550px;
+}
+
+.arrow:hover {
+  border-bottom-width: 4px;
+  border-right-width: 4px;
+}
+
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0e242d;
+  height: 910px;
+  z-index: -1;
+  width: 1170px;
+  margin-left: -130px;
+  margin-top: -90px
+}
+
+#full {
+  height: 100vh;
+  background-color: #transparent
+  z-index: -1;
+}
+
 
 
 
