@@ -119,19 +119,20 @@ main ol li:before {
 }
 
 .home_afbeelding2 {
-  width: 100px;
+  width: 1220px;
+  margin-left: -65px;
 }
 
 .home_titel {
   font-size: 70px;
-  margin-top: 300px;
-  margin-bottom: 40px;
+  margin-top: 190px;
+  margin-bottom: -20px;
   text-align: left;
 }
 
 .home_titel1 {
   font-size: 70px;
-  margin-top: 75px;
+  margin-top: 45px;
   margin-bottom: 40px;
   text-align: right;
 }
@@ -184,7 +185,7 @@ main ol li:before {
 }
 
 .home_p1 {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   text-align: right; 
   float: right;
   padding-left: 38px;
@@ -196,19 +197,31 @@ main ol li:before {
   
 }
 
+.right_align {
+  text-align: right;
+}
+
 .logo_s {
   width: 365px;
   margin-top: -25px;
   margin-left: 50px;
 }
 
+.logo_home {
+  width: 365px;
+  margin-top: -25px;
+  margin-left: 20px;
+}
+
 .box_personality {
-  margin-bottom: 125px;
+  margin-bottom: 60px;
 }
 
 .title_personality {
-  margin-bottom: 25px;
+  margin-bottom: 0px;
 }
+
+
 
 /* BUTTON
 ---------------------------------------------
@@ -358,16 +371,10 @@ a.nav-link {
 }
 
 #full {
-  height: 265vh;
+  height: 550vh;
   background-color: transparent;
-  padding-top: 10px;
-  
+  padding: 1px 0px 0px 0px;
 }
-
-
-
-
-
 
 
 
