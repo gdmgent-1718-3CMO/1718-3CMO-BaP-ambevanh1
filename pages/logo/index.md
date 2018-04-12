@@ -69,39 +69,85 @@ Het logo kan geschaald worden, maar om hier de leesbaarheid van te behouden resp
 
 ### Do's & Don'ts
 
-Om de visuele herkenning van het logo te behouden zijn hieronder enkele voorbeelden van hoe het logo niet geplaatst moet worden.
+<p class="p_dont"> Om de visuele herkenning van het logo te behouden 
+zijn hieronder enkele voorbeelden van hoe het logo niet geplaatst moet worden.</p>
+
+<div class="row lijst_dont">
+    <div class="col-6">
+        <ul>
+            <li>Voeg geen drop shadows toe</li>
+            <li>Gebruik geen kleurcombinaties die niet geaccepteerd zijn</li>
+            <li>Gebruik geen omlijning</li>
+            <li>Gebruik de juiste verhoudingen</li>
+        </ul>
+    </div>
+    <div class="col-6">
+        <ul>
+            <li>Zorg ervoor dat het logo altijd volledig zichtbaar is</li>
+            <li>Plaats het logo op de gegeven achtergrondkleuren</li>
+            <li>Gebruik het logo niet op complexe achtergronden</li>
+            <li>Het logo mag niet geroteerd worden</li>
+        </ul>
+    </div>
+    
+</div>
+
 
 
 <div class="row">
     <div class="col-3">
         <img class="logo_dont" src="{{ '/images/logo/logo_dont1.png' | relative_url }} ">
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
     </div>
     <div class="col-3">
-        <img class="logo_dont" src="{{ '/images/logo/logo_dont2.png' | relative_url }} ">
+        <img class="logo_dont" src="{{ '/images/logo/logo_dont6.png' | relative_url }} ">
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
     </div>
     <div class="col-3">
         <img class="logo_dont" src="{{ '/images/logo/logo_dont3.png' | relative_url }} ">
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
     </div>
     <div class="col-3">
         <img class="logo_dont" src="{{ '/images/logo/logo_dont4.png' | relative_url }} ">
-    </div>
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
+    </div>  
 </div>
+
+
 
 <div class="row">
     <div class="col-3">
         <img class="logo_dont" src="{{ '/images/logo/logo_dont5.png' | relative_url }} ">
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
     </div>
     <div class="col-3">
-        <img class="logo_dont" src="{{ '/images/logo/logo_dont6.png' | relative_url }} ">
+        <img class="logo_dont" src="{{ '/images/logo/logo_dont2.png' | relative_url }} ">
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
     </div>
     <div class="col-3">
         <img class="logo_dont" src="{{ '/images/logo/logo_dont7.png' | relative_url }} ">
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
     </div>
     <div class="col-3">
         <img class="logo_dont" src="{{ '/images/logo/logo_dont8.png' | relative_url }} ">
-    </div>
+        <div class="k_1">
+            <img class="kruis" src="{{ '/images/logo/logo_kruis.png' | relative_url }} ">
+        </div>
+    </div>  
 </div>
-
-
 
 
