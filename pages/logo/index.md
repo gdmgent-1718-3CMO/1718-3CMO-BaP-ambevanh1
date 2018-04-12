@@ -13,9 +13,9 @@ title: Logo intro
 
 <h2 id="concept-logo" class="first-al">Concept logo</h2>
 
-Het logo is de grafische afdruk van Vetas. De afdruk is opgebouwd met een pootafdruk, de plaats 'Lokeren' en de naam van de organisatie 'Vetas'. De pootafdruk staat voor de identiteit, het uniek zijn en de verbondenheid. De naam Vetas is in het logo verwerkt omdat ze als organisatie heel dicht bij de dieren staan. 
+Het logo is de grafische afdruk van Vetas. De afdruk is opgebouwd uit een pootafdruk, de plaats 'Lokeren' en de naam van de organisatie 'Vetas'. De pootafdruk staat voor de identiteit, het uniek zijn en de verbondenheid. De naam Vetas is in het logo verwerkt omdat ze als organisatie heel dicht bij de dieren staan. 
 
-Het grote gedeelte van de pootafdruk heeft omgekeerd de vorm van een hart dat staat voor de zorg voor het dier. Wanneer het dier verloren gelopen is, geen thuis heeft of als er andere problemen zijn zal Vetas er alles aan doen om de eigenaar terug te vinden, een nieuwe thuis te zoeken, dus met andere woorden ervoor zorgen dat het dier terug gelukkig is. De vorm van het logo is ook heel modern, speels en levendig.
+Het grote gedeelte van de pootafdruk heeft omgekeerd de vorm van een hart dat staat voor de zorg voor het dier. Wanneer het dier verloren gelopen is, geen thuis heeft of als er andere problemen zijn zal Vetas er alles aan doen om de eigenaar terug te vinden, een nieuwe thuis te zoeken. Met andere woorden ervoor zorgen dat het dier terug gelukkig is. 
 
 
 
@@ -74,23 +74,25 @@ zijn hieronder enkele voorbeelden van hoe het logo niet geplaatst moet worden.</
 
 <div class="row lijst_dont">
     <div class="col-6">
-        <ul>
+        <ol>
             <li>Voeg geen drop shadows toe</li>
             <li>Gebruik geen kleurcombinaties die niet geaccepteerd zijn</li>
             <li>Gebruik geen omlijning</li>
             <li>Gebruik de juiste verhoudingen</li>
-        </ul>
+        </ol>
     </div>
     <div class="col-6">
-        <ul>
+        <ol>
             <li>Zorg ervoor dat het logo altijd volledig zichtbaar is</li>
             <li>Plaats het logo op de gegeven achtergrondkleuren</li>
             <li>Gebruik het logo niet op complexe achtergronden</li>
             <li>Het logo mag niet geroteerd worden</li>
-        </ul>
+        </ol>
     </div>
     
-</div>
+</div> 
+
+
 
 
 
