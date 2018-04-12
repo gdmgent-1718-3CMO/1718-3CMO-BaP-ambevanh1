@@ -221,6 +221,11 @@ main ol li:before {
   margin-bottom: 0px;
 }
 
+.afb_kleur {
+  width: 280px;
+  margin-top: 28px;
+  margin-left: 20px;
+}
 
 
 /* BUTTON
@@ -379,12 +384,38 @@ a.nav-link {
 
 
 
+/* KLEUR
+----------------------------------------------
+*/
 
+.logo_kleur {
+  width: 700px;
+    z-index: 1;
+    margin-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
 
+.kleur_p1 {
+  margin-left: -40px;
+    padding: 0px 40px;
+}
 
+.kleur_p2 {
+  text-align: left;
+  float: right;
+  padding: 35px 66px;
+  background-color: #f4f3f3;
+}
 
+.overzicht_kleuren {
+  margin: 195px 0px 110px 0px;
+}
 
-
+.vak {
+  background-color: #f4f3f3;
+  padding: 250px 0px 0px 0px;
+}
 
 
 /* FOOTER
