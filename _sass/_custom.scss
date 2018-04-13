@@ -456,7 +456,7 @@ a.nav-link {
 }
 
 #full {
-  height: 550vh;
+  height: 470vh;
   background-color: transparent;
   padding: 1px 0px 0px 0px;
 }
@@ -677,6 +677,56 @@ a.download {
     margin-top: 30px;
 }
 
+/* TOEPASSINGEN
+----------------------------------------------
+*/
+
+.box_toep {
+  padding: 0px 10px 0px 0px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.box_toep1 {
+  padding: 0px 10px 0px 0px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+  margin-left: -70px;
+}
+
+.toep_img {
+  margin-left: -20px;
+}
+
+.h3_toep {
+  margin-top: 50px;
+}
+
+.downloads {
+  cursor: pointer;
+}
+
+.toep_p {
+  margin-top: 30px;
+}
+
+.toep_afb {
+  width: 365px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+a.toep {
+  color: #0f0f0f;
+  text-decoration: none;
+  background-color: transparent;
+  border-bottom: none;
+  &:hover {
+    background-color:transparent;
+    color: #0f0f0fd5;
+  }
+}
+
 
 /* FOOTER
 ----------------------------------------------
@@ -710,6 +760,7 @@ footer {
         }
     }
 }
+
 
 /* BACK TO TOP
 -------------------------
