@@ -78,12 +78,37 @@ main ol li:before {
 
 .logo_max {
   width: 310px;
-  margin: 30px 0px 50px 360px;
+  margin: 30px 0px 50px 460px;
 }
 
 .logo_variaties {
-  width: 310px;
-  margin: 50px 40px;
+    width: 200px;
+    margin: 15px 0px;
+
+}
+
+.var_top {
+  margin-top: 20px;
+}
+
+.var5 {
+  margin-left: -240px;
+}
+
+.var {
+  margin-left: 0px;
+}
+
+.positief {
+  margin-left: 480px;
+}
+
+.negatief {
+  margin-top: 60px;
+}
+
+.bottom {
+  margin-bottom: 60px;
 }
 
 .logo_dont {
@@ -467,7 +492,7 @@ a.nav-link {
 */
 
 a.download {
-  color: #007a8e;
+  color: #007a8d8a;
   text-decoration: none;
   background-color: transparent;
   border-bottom: none;

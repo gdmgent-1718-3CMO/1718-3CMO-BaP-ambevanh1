@@ -11,7 +11,7 @@ title: Logo | Vetas
 <h1>Logo</h1>
 
 
-<h2 id="concept-logo" class="first-al">Concept logo</h2>
+<h2 id="concept-logo" class="first-al">Concept logo <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h2>
 
 <div class="row">
     <div class="col-6">
@@ -39,49 +39,59 @@ title: Logo | Vetas
     </div>
 </div>
 
-## Logo en variaties
+## Logo en kleurvarianten
 
 <p class="logo_p col-6">Er bestaat een standaard logo met enkele variaties. <br>Het standaard logo bestaat uit twee kleuren en <br>wordt het beste op een lichte achtergrond geplaatst. <br>De variaties bestaan om het logo gemakkelijk op <br>andere achtergronden toe te passen.</p>
 
 <!--NEGATIEF-->
-<h3> 1 kleur negatief </h3>
+<h3 class="negatief"> 1 kleur negatief <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h3>
 
-<div class="row">
+<div class="row bottom">
     <div class="col-6">
-        <img class="logo_variaties" src="{{ '/images/logo/logo_1.png' | relative_url }} ">
+        <img class="logo_variaties" src="{{ '/images/logo/logo_4.png' | relative_url }} ">
     </div>
     <div class="col-6">
-        <img class="logo_variaties" src="{{ '/images/logo/logo_1.png' | relative_url }} ">
+        <img class="logo_variaties var5" src="{{ '/images/logo/logo_5.png' | relative_url }} ">
     </div>
 </div>
 
 
 
 <!--POSITIEF-->
-<h3> 1 kleur positief </h3>
+<div class="positief">
+<h3> 1 kleur positief <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h3>
 
 
 <div class="row">
     <div class="col-6">
-        <img class="logo_variaties" src="{{ '/images/logo/logo_1.png' | relative_url }} ">
+        <img class="logo_variaties" src="{{ '/images/logo/logo_6.png' | relative_url }} ">
     </div>
     <div class="col-6">
-        <img class="logo_variaties" src="{{ '/images/logo/logo_1.png' | relative_url }} ">
+        <img class="logo_variaties var" src="{{ '/images/logo/logo_1.png' | relative_url }} ">
     </div>
+</div>
+<div class="row bottom">
+    <div class="col-6">
+        <img class="logo_variaties var_top" src="{{ '/images/logo/logo_2.png' | relative_url }} ">
+    </div>
+    <div class="col-6">
+        <img class="logo_variaties var var_top" src="{{ '/images/logo/logo_7.png' | relative_url }} ">
+    </div>
+</div>
 </div>
 
 ## Minimale grootte
 
-Het logo kan geschaald worden, maar om hier de leesbaarheid van te behouden respecteer je de minimale groottes:
+<p class="logo_p col-6"> Het logo kan geschaald worden, maar om hier de leesbaarheid van te behouden respecteer je de minimale groottes: </p>
 -	Minimale hoogte print
 -	Minimale hoogte web
 
 ## Logo gebruik
 
-### Do's & Don'ts
+### Don'ts
 
-<p class="p_dont"> Om de visuele herkenning van het logo te behouden 
-zijn hieronder enkele voorbeelden van hoe het logo niet geplaatst moet worden.</p>
+<p class="p_dont col-6 logo_p"> Om de visuele herkenning van het logo te behouden 
+zijn hieronder enkele voorbeelden van hoe het logo <br>niet geplaatst moet worden.</p>
 
 <div class="row lijst_dont">
     <div class="col-6">
