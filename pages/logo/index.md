@@ -2,7 +2,7 @@
 # layout: vertical
 permalink: logo/
 published: true
-title: Logo intro
+title: Logo | Vetas
 ---
 <!-- <div class="balk_title hallo">Hallo</div> -->
 
@@ -13,15 +13,24 @@ title: Logo intro
 
 <h2 id="concept-logo" class="first-al">Concept logo</h2>
 
-Het logo is de grafische afdruk van Vetas. De afdruk is opgebouwd uit een pootafdruk, de plaats 'Lokeren' en de naam van de organisatie 'Vetas'. De pootafdruk staat voor de identiteit, het uniek zijn en de verbondenheid. De naam Vetas is in het logo verwerkt omdat ze als organisatie heel dicht bij de dieren staan. 
+<div class="row">
+    <div class="col-6">
+<p class="logo_p">Het logo is de grafische afdruk van Vetas. De afdruk is opgebouwd uit een pootafdruk, de plaats 'Lokeren' <br>en de naam van de organisatie 'Vetas'. De pootafdruk <br>staat voor de identiteit, het uniek zijn en de verbondenheid. <br>De naam Vetas is in het logo verwerkt omdat ze als <br>organisatie heel dicht bij de dieren staan. </p>
+    </div>
+    <div class="col-6 logo_p2">
+<p class="logo_p">Het grote gedeelte van de pootafdruk heeft omgekeerd <br>de vorm van een hart dat staat voor de zorg voor het dier. Wanneer het dier verloren gelopen is, geen thuis heeft of <br>als er andere problemen zijn zal Vetas er alles aan doen om <br>de eigenaar terug te vinden, een nieuwe thuis te zoeken. <br>Met andere woorden ervoor zorgen dat het dier <br>terug gelukkig is. </p>
+    </div>
+</div>
 
-Het grote gedeelte van de pootafdruk heeft omgekeerd de vorm van een hart dat staat voor de zorg voor het dier. Wanneer het dier verloren gelopen is, geen thuis heeft of als er andere problemen zijn zal Vetas er alles aan doen om de eigenaar terug te vinden, een nieuwe thuis te zoeken. Met andere woorden ervoor zorgen dat het dier terug gelukkig is. 
-
-
+<div class="row">
+    <div class="col-12">
+        <img class="concept_afb" src="{{ '/images/logo/logo_max.png' | relative_url }} ">
+    </div>
+</div>
 
 ## Minimale witruimte
     
-Om ervoor te zorgen dat het logo voldoende zichtbaar is, laten we errond een vrije ruimte waar content of andere logo’s in geplaatst mogen worden. 
+<p class="logo_p col-6">Om ervoor te zorgen dat het logo voldoende zichtbaar is, <br>laten we errond een vrije ruimte waar content of andere <br>logo’s in geplaatst mogen worden.  </p>
 
 
 <div class="row">
@@ -32,9 +41,10 @@ Om ervoor te zorgen dat het logo voldoende zichtbaar is, laten we errond een vri
 
 ## Logo en variaties
 
-Er bestaat een standaard logo met enkele variaties. Het standaard logo bestaat uit twee kleuren en wordt het beste op een lichte achtergrond geplaatst. De variaties bestaan om het logo gemakkelijk op andere achtergronden toe te passen.
+<p class="logo_p col-6">Er bestaat een standaard logo met enkele variaties. <br>Het standaard logo bestaat uit twee kleuren en <br>wordt het beste op een lichte achtergrond geplaatst. <br>De variaties bestaan om het logo gemakkelijk op <br>andere achtergronden toe te passen.</p>
 
-### 1 kleur negatief
+<!--NEGATIEF-->
+<h3> 1 kleur negatief </h3>
 
 <div class="row">
     <div class="col-6">
@@ -47,7 +57,8 @@ Er bestaat een standaard logo met enkele variaties. Het standaard logo bestaat u
 
 
 
-### 1 kleur positief
+<!--POSITIEF-->
+<h3> 1 kleur positief </h3>
 
 
 <div class="row">

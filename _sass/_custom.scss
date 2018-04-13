@@ -10,6 +10,12 @@
 ---------------------------------------------
 */
 
+.logo_typo3 {
+  width: 305px;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
 /* LOGO
 ---------------------------------------------
 */
@@ -30,7 +36,11 @@ main ol li:before {
 }
 
 .first-al {
-  margin: 9rem 0 1rem;
+  margin: 45px 0px 20px 0px;
+}
+
+.logo_p {
+  padding: 0px 40px 0px 0px;
 }
 
 .balk {
@@ -68,7 +78,7 @@ main ol li:before {
 
 .logo_max {
   width: 310px;
-  margin: 50px 282px;
+  margin: 30px 0px 50px 360px;
 }
 
 .logo_variaties {
@@ -92,6 +102,14 @@ main ol li:before {
   margin-top: 25px;
 }
 
+.logo_p2 {
+  margin-top: 200px;
+}
+
+.concept_afb {
+  width: 310px;
+  margin: -140px 42px 30px 0px;
+}
 
 
 /* HOME
@@ -441,6 +459,58 @@ a.nav-link {
 
 .v4 {
   background-color: #007a8e;
+}
+
+
+/* TYPOGRAFIE
+----------------------------------------------
+*/
+
+a.download {
+  color: #007a8e;
+  text-decoration: none;
+  background-color: transparent;
+  border-bottom: none;
+  &:hover {
+    background-color:transparent;
+    color: #0f0f0f;
+  }
+}
+
+.typo_p {
+  padding: 0px 50px 0px 0px;
+}
+
+.typo_p2 {
+  padding: 0px 0px 0px 30px;
+}
+
+.typo_p1 {
+  margin-left: -50px;
+    padding: 0px 49px;
+}
+
+.typo_div1 {
+  margin-left: 450px;
+}
+
+.typo_div2 {
+  text-align: right;
+  margin-top: 20px
+}
+
+.typo_afb1 {
+  width: 375px;
+  margin: 20px 452px;
+  background-color: #007a8e;
+  padding: 30px 30px;
+}
+
+.typo_afb2 {
+  width: 375px;
+  margin: 20px 80px;
+  background-color: #007a8e;
+  padding: 30px 30px;
 }
 
 
