@@ -80,11 +80,34 @@ title: Logo | Vetas
 </div>
 </div>
 
+<!--ZW-->
+<h3 class="negatief zw"> Zwart & wit <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h3>
+
+<p class="col-6 logo_p">Het logo wordt enkel en alleen in de kleuren van de huisstijl gedrukt. Hier is één uitzondering op: bij het printen in zwart/wit. Deze worden dus niet gebruikt bij kleurendruk. </p>
+
+<div class="row bottom">
+    <div class="col-6">
+        <img class="logo_variaties" src="{{ '/images/logo/logo_zwart_positief.png' | relative_url }} ">
+    </div>
+    <div class="col-6">
+        <img class="logo_variaties var5" src="{{ '/images/logo/logo_zwart_negatief.png' | relative_url }} ">
+    </div>
+</div>
+
 ## Minimale grootte
 
 <p class="logo_p col-6"> Het logo kan geschaald worden, maar om hier de leesbaarheid van te behouden respecteer je de minimale groottes: </p>
--	Minimale hoogte print
--	Minimale hoogte web
+
+<div class="row box_mingr">
+    <div class="col-6 center_gr">
+        <h3 class="h_gr">Minimale grootte print</h3>
+        <img class="logo_mm" src="{{ '/images/logo/logo_mm.png' | relative_url }} ">
+    </div>
+    <div class="col-6 center_gr">
+        <h3 class="h_gr2">Minimale grootte web</h3>
+        <img class="logo_px" src="{{ '/images/logo/logo_px.png' | relative_url }} ">
+    </div>
+</div>
 
 ## Logo gebruik
 
@@ -146,7 +169,7 @@ zijn hieronder enkele voorbeelden van hoe het logo <br>niet geplaatst moet worde
 
 
 
-<div class="row">
+<div class="row kruis_top">
     <div class="col-3">
         <img class="logo_dont" src="{{ '/images/logo/logo_dont5.png' | relative_url }} ">
         <div class="k_1">
