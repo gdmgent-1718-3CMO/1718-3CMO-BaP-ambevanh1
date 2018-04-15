@@ -579,6 +579,17 @@ a.download {
 ----------------------------------------------
 */
 
+a.lk {
+  color: #0f0f0f;
+  text-decoration: none;
+  background-color: transparent;
+  border-bottom: none;
+  &:hover {
+    background-color:transparent;
+    color: #007a8e;
+  }
+}
+
 .fotografie_home {
   width: 365px;
   margin-top: 50px;

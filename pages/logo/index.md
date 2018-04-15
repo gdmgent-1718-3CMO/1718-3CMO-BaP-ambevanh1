@@ -11,7 +11,7 @@ title: Logo | Vetas
 <h1>Logo</h1>
 
 
-<h2 id="concept-logo" class="first-al">Concept logo <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h2>
+<h2 id="concept-logo" class="first-al">Concept logo <a class="download" href="https://drive.google.com/uc?export=download&id=1cR-dZaHiqWfR4r031rxb8231Oeh5_eyc">| Download</a></h2>
 
 <div class="row">
     <div class="col-6">
@@ -44,7 +44,7 @@ title: Logo | Vetas
 <p class="logo_p col-6">Er bestaat een standaard logo met enkele variaties. <br>Het standaard logo bestaat uit twee kleuren en <br>wordt het beste op een lichte achtergrond geplaatst. <br>De variaties bestaan om het logo gemakkelijk op <br>andere achtergronden toe te passen.</p>
 
 <!--NEGATIEF-->
-<h3 class="negatief"> 1 kleur negatief <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h3>
+<h3 class="negatief"> 1 kleur negatief</h3>
 
 <div class="row bottom">
     <div class="col-6">
@@ -59,7 +59,7 @@ title: Logo | Vetas
 
 <!--POSITIEF-->
 <div class="positief">
-<h3> 1 kleur positief <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h3>
+<h3> 1 kleur positief</h3>
 
 
 <div class="row">
@@ -81,7 +81,7 @@ title: Logo | Vetas
 </div>
 
 <!--ZW-->
-<h3 class="negatief zw"> Zwart & wit <a class="download" href="https://www.wfonts.com/font/arial-rounded-mt-bold ">| Download</a></h3>
+<h3 class="negatief zw"> Zwart & wit</h3>
 
 <p class="col-6 logo_p">Het logo wordt enkel en alleen in de kleuren van de huisstijl gedrukt. Hier is één uitzondering op: bij het printen in zwart/wit. Deze worden dus niet gebruikt bij kleurendruk. </p>
 
